@@ -6,4 +6,7 @@ def roll
   # choices = (1..6).to_a 
   # idx = Random.rand(0..5)
   # choices[idx]
+  
+  Random.rand(1..6)
+  
 end
