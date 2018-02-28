@@ -3,7 +3,7 @@
 # Feel free to google "how to generate a random number in ruby"
 
 def roll
-  choices = (1..6).to_a 
-  idx = Random.rand(0..5)
-  choices[idx]
+  # choices = (1..6).to_a 
+  # idx = Random.rand(0..5)
+  # choices[idx]
 end
